@@ -52,7 +52,8 @@ The first part of creating the model is preprocessing the data. During this step
 I used a Keras Tuner hyperparameter. Then compiled, trained, and evaluated the best-tuned model with the neural network. It had multiple hidden layers but gave a dissappointing 49% accuracy and even greater loss.
 During the optimization, I changed the activation fuctions and decreased the numbers of hidden layers in order to decrease the loss of the model and increase the accuracy. After three atempts the target 75% accuracy was not achieved. The results are as follows:
 
-**Insrt Table**
+
+<img width="138" alt="AnalysisTable" src="https://github.com/mariadiosdado/deep-learning-challenge/assets/136658866/ee50443d-8e32-4252-9423-14ae3c934e9f">
 
 Another method that can be used is logistic regression. It is easy to use when dealing with binary classification problems but it works better for smaller datasets. Another model to try in order to increase accuracy is decision Trees. This model is also easy to interpret and does not require too much data cleaning but it can be prone to overfitting. 
 
