@@ -130,3 +130,7 @@ Now that you're finished with your analysis in Google Colab, you need to get you
   2. Move them into your Deep Learning Challenge directory in your local repository.
   
   3. Push the added files to GitHub.
+
+## Credits
+- In class activities
+- GeeksForGeeks
